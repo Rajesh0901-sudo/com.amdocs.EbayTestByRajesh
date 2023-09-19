@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-19T13:06:26 IST" name="Default suite" finished-at="2023-09-19T13:07:59 IST" duration-ms="92642">
+    <groups>
+    </groups>
+    <test started-at="2023-09-19T13:06:26 IST" name="Default test" finished-at="2023-09-19T13:07:59 IST" duration-ms="92642">
+      <class name="com.amdocs.testcases.CompleteAppTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:06:22 IST" name="setup" finished-at="2023-09-19T13:06:26 IST" duration-ms="4349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="IndexPageTest()[pri:1, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:06:26 IST" name="IndexPageTest" finished-at="2023-09-19T13:06:34 IST" duration-ms="7685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndexPageTest -->
+        <test-method signature="LoginPageTest()[pri:2, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:06:34 IST" name="LoginPageTest" finished-at="2023-09-19T13:07:14 IST" duration-ms="40579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method signature="HomePageTest()[pri:3, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:07:14 IST" name="HomePageTest" finished-at="2023-09-19T13:07:23 IST" duration-ms="8419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method signature="SearchPageTest()[pri:4, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:07:23 IST" name="SearchPageTest" finished-at="2023-09-19T13:07:27 IST" duration-ms="4234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPageTest -->
+        <test-method signature="ProductPageTest()[pri:5, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:07:27 IST" name="ProductPageTest" finished-at="2023-09-19T13:07:40 IST" duration-ms="12801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductPageTest -->
+        <test-method signature="CartPageTest()[pri:6, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:07:40 IST" name="CartPageTest" finished-at="2023-09-19T13:07:59 IST" duration-ms="18880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartPageTest -->
+        <test-method is-config="true" signature="quitSetup()[pri:0, instance:com.amdocs.testcases.CompleteAppTest@38c6f217]" started-at="2023-09-19T13:07:59 IST" name="quitSetup" finished-at="2023-09-19T13:07:59 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitSetup -->
+      </class> <!-- com.amdocs.testcases.CompleteAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
